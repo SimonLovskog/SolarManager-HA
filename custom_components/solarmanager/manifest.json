@@ -1,0 +1,14 @@
+{
+  "domain": "solarmanager",
+  "name": "SolarManager",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/solarmanager",
+  "requirements": ["aiohttp"],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": [
+    "@SimonLovskog"
+  ]
+}
